@@ -1,2 +1,2 @@
 # plant-shop
- a project to learn flask
+Creating a plant shop project to learn flask
